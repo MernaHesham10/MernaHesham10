@@ -5,9 +5,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Music :headphones:
+-  **Learning :** Front-End Development, Software Testing, Android Development 
+-  **Languages :** Python, JavaScript, C++, C#, Java
+-  **Hobbies :** Swimmming & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Technojam
 
