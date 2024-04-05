@@ -217,8 +217,4 @@
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=MernaHesham10&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
-<h2 align='left'>Thank You ❤</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>	
- <br>
+<h2 align='left'>Thank You ❤</h2>	
