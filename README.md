@@ -68,6 +68,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+<!--
 # 📈 Statistics
 ![](https://komarev.com/ghpvc/?username=MernaHesham10&color=447ff7&label=Visitor+count)
 
@@ -77,7 +78,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernaHesham10&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=MernaHesham10&theme=react-dark" />
   </a>
-</p>
+</p> 
+
 
 
 <p  align="center">
@@ -91,7 +93,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+-->
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
@@ -192,7 +194,7 @@
   </tr>
 </table>
 
-
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 My Github Stats
@@ -202,14 +204,14 @@
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MernaHesham10&theme=algolia" />
 </p>
 
-
+-->
 
 
 ## Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mernahesham/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <!--<a href="mailto:MernaHesham10@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>-->
+   <a href="mailto:MernaHesham10@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 </p>
 
 
